@@ -11,8 +11,8 @@ Explore the live Weather App [Live here](https://nextjs-weather-app-rahil1202.ve
 
 Witness the beauty of weather through our app:
 
-(![alt text](image.png))
-(![alt text](image-1.png))
+![alt text](image.png)
+![alt text](image-1.png)
 
 
 ## Getting Started
